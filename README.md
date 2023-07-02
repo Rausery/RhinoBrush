@@ -10,7 +10,7 @@ A Rhino Plugin for NURBS Editing
 
 最终生成的插件为：
 
-- **RhinoBrush.rhp**：需Rhino7正式版本，具体使用参考用户手册
+- **RhinoBrush.rhp**（需Rhino7正式版本，具体使用参考**用户手册.pdf**）
 
 运行插件，需首先下载RhinoSDK，下载链接：
 
@@ -24,7 +24,7 @@ Our contribution is mainly contained in those three documents below:
 
 the final Rhino plugin is:
 
-- **RhinoBrush.rhp**：Suppports Rhino 7. For detailed utilize, refer to the **UserManual.pdf**
+- **RhinoBrush.rhp** (Suppports Rhino 7. For detailed utilize, refer to the **UserManual.pdf**)
 
 To run the plugin, RhinoSDK is necessary, download link:
 
