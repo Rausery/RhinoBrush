@@ -1,7 +1,7 @@
 # RhinoBrush
-一个用于编辑NURBS的插件
+一个用于编辑NURBS的插件，作者：金航绪，**罗书宇**
 
-A Rhino Plugin for NURBS Editing  
+A Rhino Plugin for NURBS Editing, author: Jin, H.X., **Luo, S.Y.**
 
   
 
