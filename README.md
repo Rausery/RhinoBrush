@@ -3,6 +3,8 @@
 
 A Rhino Plugin for NURBS Editing  
 
+  
+
 我们的代码集中在以下三个文件中：
 
 - **RhinoBrushClass.h**：类声明与函数声明头文件
@@ -15,7 +17,9 @@ A Rhino Plugin for NURBS Editing
 
 运行插件，需首先下载RhinoSDK，下载链接：
 
-[https://www.rhino3d.com/download/Rhino-SDK/7.0/latest/](https://www.rhino3d.com/download/Rhino-SDK/7.0/latest/)  
+[https://www.rhino3d.com/download/Rhino-SDK/7.0/latest/](https://www.rhino3d.com/download/Rhino-SDK/7.0/latest/)
+
+  
 
 Our contribution is mainly contained in those three documents below:
 
